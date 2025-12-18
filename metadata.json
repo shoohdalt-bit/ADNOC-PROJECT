@@ -1,0 +1,7 @@
+{
+  "name": "Copy of EcoBite - Sparkly Cafeteria Management",
+  "description": "Revolutionizing school cafeterias with sustainable food management, smart analytics, and a touch of glamorous sparkle.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
